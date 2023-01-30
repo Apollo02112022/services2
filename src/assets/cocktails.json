@@ -1,0 +1,25 @@
+[
+     {
+        "name": "Eric's cocktail",
+        "price": "$10",
+        "picture": "../assets/pictures/Eric_cocktail.png"
+    },
+
+    {
+        "name": "Razzak's cocktail",
+        "price": "$10",
+        "picture":  "../assets/pictures/Razzak_cocktail.png"
+    }, 
+
+    {
+        "name": "Mouss's cocktail",
+        "price": "$10",
+        "picture": "../assets/pictures/Mouss_cocktail.png"
+    }, 
+
+    {
+        "name": "Nicolas's cocktail",
+        "price": "$10",
+        "picture": "../assets/pictures/Nicolas_cocktail.png"
+    }
+]
